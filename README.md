@@ -9,9 +9,9 @@ Section 1: Purpose \
 Section 2: Example Usage \
 Section 3: Software Used \
 Section 4: Implementation \
-Section 5: Problems
-Section 6: How to Run Project
-Section 7: Resources
+Section 5: Problems \
+Section 6: How to Run Project \
+Section 7: Resources \
 
 
 ### Section 1: Purpose
