@@ -14,7 +14,7 @@ Section 6: How to Run Project
 Section 7: Resources
 
 
-Section 1: Purpose
+Section 1: Purpose\
 The ARCMFE mobile application makes use of Augmented Reality to simplify maintenance checks on electronic locks by visually displaying the locks information to the user quickly. The scope of this document is to describe the format of this application and the process to recreate it. 
 
 
