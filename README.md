@@ -55,7 +55,7 @@ We originally wanted to develop most of the application in kotlin through androi
 
 
 
-Section 6: How to Run Project
+### Section 6: How to Run Project
 1. \
 2. \
 3. \
