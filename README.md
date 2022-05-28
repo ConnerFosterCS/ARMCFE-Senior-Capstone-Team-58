@@ -14,15 +14,12 @@ Section 6: How to Run Project \
 Section 7: Resources
 
 
-
 ### Section 1: Purpose
 The ARCMFE mobile application makes use of Augmented Reality to simplify maintenance checks on electronic locks by visually displaying the locks information to the user quickly. The scope of this document is to describe the format of this application and the process to recreate it. 
 
 
-
 ### Section 2: Example Usage
 ![Program Demo](https://github.com/ConnerFosterCS/ARMCFE-Senior-Capstone-Team-58/blob/main/ExampleUsage.gif)
-
 
 
 ### Section 3: Software Used
@@ -33,7 +30,6 @@ Note: All software that we used is free for developmental purposes (except the U
 | Android OS | The application is built on Android OS because it allows you to upload your own files directly to the phone's file system making development easier. Also, the android applications will work across a large variety of Android OS devices. |
 | Unity (Vuforia AR Package) | Unity is the engine containing our 3D project. Vuforia is a package for Unity that we used to be able to “see” the lock with the phone. This is offered for free and is developed by Unity themselves. https://developer.vuforia.com/ |
 | Unity (BLE Scanner Package) | Unity is the engine containing our 3D project. Bluetooth LE for iOS, tvOS and Android is a package for Unity that we used to be able to read the BLE lock data within Unity. This is offered for $20 on the unity asset store and is developed by a private publisher. https://assetstore.unity.com/packages/tools/network/bluetooth-le-for-ios-tvos-and-android-26661#content |
-
 
 
 ### Section 4: Implementation
@@ -47,12 +43,10 @@ The C# scripts themselves are each self contained and control a small portion of
 For the BLE connection we used the Bluetooth LE for iOS, tvOS and Android unity plugin. Within this package there are some example scripts/scenes containing base functionality. The scene we were interested in is the ScannerTest. We then modified these scripts to include information about manufacturer data and UUID. The information found with this script is then sent to a .txt to be parsed by the UI visual elements.
 
 
-
 ### Section 5: Problems
 Out of all of the AR methods we attempted, such as an image database and shape recognition, using a 3d model to map points to search for within a 3d space was the most effective method we found. We ran into many problems with the AR features being inconsistent with the other methods.
 
 We originally wanted to develop most of the application in kotlin through android studio since kotlin and android studio have a large amount of support and usage within the android application space, however, we could not figure out how to effectively merge the Unity AR application features into android studio which forced us to read the BLE device information through a Unity package instead.
-
 
 
 ### Section 6: How to Run Project
@@ -63,7 +57,6 @@ We originally wanted to develop most of the application in kotlin through androi
 5. \
 6. \
 ...
-
 
 
 ### Section 7: Resources
