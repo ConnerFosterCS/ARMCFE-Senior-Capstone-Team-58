@@ -50,16 +50,13 @@ We originally wanted to develop most of the application in kotlin through androi
 
 
 ### Section 6: How to Run Project
-APK Instructions \
-1. Download the project from github and unzip the file. \
-2. Within the file there is an APK titled “ARMCFE App.apk” \ 
-3. Download the APK onto your device and run the application \
+APK Instructions 
+1. Download the project from github and unzip the file. 
+2. Within the file there is an APK titled “ARMCFE App.apk” 
+3. Download the APK onto your device and run the application 
 
-Unity Instructions \
-1. Download the project from github and unzip the file \
-
-
-
+Unity Instructions 
+1. Download the project from github and unzip the file 
 ...
 
 
