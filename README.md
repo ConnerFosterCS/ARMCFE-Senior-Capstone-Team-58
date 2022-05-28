@@ -1,6 +1,6 @@
 # ARMCFE-Senior-Capstone-Team-58
 
-Project: Augmented Reality Maintenance Checks for Equipment
+Project: Augmented Reality Maintenance Checks for Equipment \
 Students: Carle, Joshua  —  Crew, Gabriel  —  Foster, Conner 
 
 
