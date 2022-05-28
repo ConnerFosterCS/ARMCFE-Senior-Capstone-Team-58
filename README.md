@@ -28,5 +28,7 @@ Note: All software that we used is free for developmental purposes (except the U
 | Software  | Why it is Used |
 | ------------- | ------------- |
 | Android OS | The application is built on Android OS because it allows you to upload your own files directly to the phone's file system making development easier. Also, the android applications will work across a large variety of Android OS devices. |
-| Unity (Vuforia AR Package) | Unity is the engine containing our 3D project. Vuforia is a package for Unity that we used to be able to “see” the lock with the phone. This is offered for free and is developed by Unity themselves. \ https://developer.vuforia.com/ |
-| Unity (BLE Scanner Package) | Unity is the engine containing our 3D project. Bluetooth LE for iOS, tvOS and Android is a package for Unity that we used to be able to read the BLE lock data within Unity. This is offered for $20 on the unity asset store and is developed by a private publisher. \ https://assetstore.unity.com/packages/tools/network/bluetooth-le-for-ios-tvos-and-android-26661#content |
+| Unity (Vuforia AR Package) | Unity is the engine containing our 3D project. Vuforia is a package for Unity that we used to be able to “see” the lock with the phone. This is offered for free and is developed by Unity themselves. \ 
+https://developer.vuforia.com/ |
+| Unity (BLE Scanner Package) | Unity is the engine containing our 3D project. Bluetooth LE for iOS, tvOS and Android is a package for Unity that we used to be able to read the BLE lock data within Unity. This is offered for $20 on the unity asset store and is developed by a private publisher. \ 
+https://assetstore.unity.com/packages/tools/network/bluetooth-le-for-ios-tvos-and-android-26661#content |
