@@ -5,6 +5,7 @@ Students: Carle, Joshua  —  Crew, Gabriel  —  Foster, Conner
 
 
 ### Table of Contents:
+\
 Section 1: Purpose
 Section 2: Example Usage
 Section 3: Software Used
