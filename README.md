@@ -50,15 +50,22 @@ We originally wanted to develop most of the application in kotlin through androi
 
 
 ### Section 6: How to Run Project
-APK Instructions 
-1. Download the project from github and unzip the file. 
+APK Instructions
+1. Download the project from github and unzip the file.
 2. Within the file there is an APK titled “ARMCFE App.apk” 
-3. Download the APK onto your device and run the application 
+3. Download the APK onto your device and run the application
 
-Unity Instructions 
-1. Download the project from github and unzip the file 
+Unity Instructions
+1. Download the project from github and unzip the file
+2. Select the file in Unity Hub and it should open the project in the Unity editor
+3. Click the “File” tab in the top left corner and select  “Build Settings”
+4. Ensure that the platform is set to Android
+5. Click “Export” to export the file
+6. Open the exported file in Android Studio
+7. Click “File” in the top left corner and select “Project Structure”
+8. Set the android gradle plugin version to 4.1.0 if it is currently a lower version
+9. Run the project by clicking the green arrow in the top right. (App does not work if  it’s running on an Android emulator, must be running on a device)
 
-...
 
 
 ### Section 7: Resources
